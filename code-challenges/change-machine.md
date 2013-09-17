@@ -36,7 +36,7 @@ Your program should provide for the following functionality:
 	14 cents           = 1 dime, 4 pennies
 	
 	2 dimes, 3 pennies = 23 cents
-	3 pennies          = 3  cents
+	3 pennies          = 3 cents
 
 
 #####Areas we evaluate
