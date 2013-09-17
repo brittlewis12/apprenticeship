@@ -16,7 +16,7 @@ Create a program that makes change using U.S. currency denominations with as few
 - Adhere to object-oriented design principles
 - Use a currency set of pennies, nickels, dimes, quarters
 - The solution should exist as a public GitHub repository
-- Make a github commits for each requirement
+- Make a github commit for each requirement
 
 
 #####Requirements
@@ -35,7 +35,7 @@ Your program should provide for the following functionality:
 	6 cents            = 1 nickel, 1 penny
 	14 cents           = 1 dime, 4 pennies
 	
-	2 dimes, 3 pennies = 13 cents
+	2 dimes, 3 pennies = 23 cents
 	3 pennies          = 3  cents
 
 
