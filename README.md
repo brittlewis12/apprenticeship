@@ -22,7 +22,9 @@
 ##What is offered
 
 - MacBook pro computer
-- Learning environment to participate as part of a team
+- Learning environment as part of a team
+- Best practices in technology
+- Communication and presentation skills
 
 ##Practices (code challenges)
 
