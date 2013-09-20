@@ -8,7 +8,7 @@
 
 - Three month program designed to educate on applicable technology and operations
 - Apprentice is immersed as part of a team at [GeneralAssemb.ly](http://generalassemb.ly)
-- At the completion, an apprentice is evaluated of potential employment
+- At the completion, an apprentice is evaluated for potential employment
 
 ##Expectations
 
