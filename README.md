@@ -10,7 +10,7 @@
 - Apprentice is immersed as part of a team at [GeneralAssemb.ly](http://generalassemb.ly)
 - At the completion, an apprentice is evaluated of potential employment
 
-##Expectations of our apprentices
+##Expectations
 
 - Dedicated to learning and find ways to showcase that study
 - Learning ruby and javascript/coffeescript as languages
@@ -21,8 +21,13 @@
 ##What is offered
 
 - MacBook pro computer
-- Learning environment to participate with a team
+- Learning environment to participate as part of a team
 
 ##Practices (code challenges)
 
 - [Change Machine](https://github.com/generalassembly/apprenticeship/blob/master/code-challenges/change-machine.md)
+
+##Suggested Reading
+
+- [Mastery](http://www.scribd.com/doc/257928/-Mastery-by-George-Leonard) - [George Leonard](http://en.wikipedia.org/wiki/George_Leonard)
+
