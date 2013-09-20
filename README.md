@@ -17,6 +17,7 @@
 - Pair program with members of the team
 - Contribute as part of the team
 - Spend at least 5 hours outside of daily work on studying
+- Present monthly to the engineering team
 
 ##What is offered
 
