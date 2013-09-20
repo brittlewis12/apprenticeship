@@ -14,8 +14,8 @@
 
 - Dedicated to learning and find ways to showcase that study
 - Learning ruby and javascript/coffeescript as languages
-- Contribute as a team member of the immersion team
 - Pair program with members of the team
+- Contribute as part of the team
 - Spend at least 5 hours outside of daily work on studying
 
 ##What is offered
