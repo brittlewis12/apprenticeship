@@ -1,7 +1,5 @@
 ![GA_Logo](https://raw.github.com/generalassembly/ga-ruby-on-rails-for-devs/master/images/ga.png)
 
-#Apprenticeship Program
-
 ##Overview
 
 - Three month program designed to educate on applicable technology and operations
