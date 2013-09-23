@@ -30,3 +30,5 @@
 
 - [Mastery](http://www.scribd.com/doc/257928/-Mastery-by-George-Leonard) - [George Leonard](http://en.wikipedia.org/wiki/George_Leonard)
 
+##Program Agendas by Week
+- [Weekly Agenda](https://github.com/generalassembly/apprenticeship/blob/master/weekly-agendas.md)
