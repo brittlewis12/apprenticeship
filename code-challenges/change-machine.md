@@ -1,16 +1,16 @@
 ![GA_Logo](https://raw.github.com/generalassembly/ga-ruby-on-rails-for-devs/master/images/ga.png)
 
 
-###Apprentice Code Challenge - "Change Machine"
+### Apprentice Code Challenge - "Change Machine"
 
 <br />
 
-#####Objective
+##### Objective
 
 Create a program that makes change using U.S. currency denominations with as few coins as possible and can calculate a total given a set of currency denominations.
 
 
-#####Constraints
+##### Constraints
 
 - Use Ruby as a language
 - Adhere to object-oriented design principles
@@ -18,8 +18,14 @@ Create a program that makes change using U.S. currency denominations with as few
 - The solution should exist as a public GitHub repository
 - Make a github commit for each requirement
 
+##### Currency set
 
-#####Requirements
+    pennie  = 1 cents
+    nickel  = 5 cents
+    dime    = 10 cents
+    quarter = 25 cents
+
+##### Requirements
 
 Your program should provide for the following functionality:
 
@@ -29,7 +35,7 @@ Your program should provide for the following functionality:
 - Take input from the command line
 
 
-#####Examples
+##### Examples
 
 	3 cents            = 3 pennies
 	6 cents            = 1 nickel, 1 penny
@@ -39,7 +45,7 @@ Your program should provide for the following functionality:
 	3 pennies          = 3 cents
 
 
-#####Areas we evaluate
+##### Areas we evaluate
 
 - Simplicity/elegance of design (be prepared to discuss)
 - Maintainability (clean, code that is easy to understand and change)
