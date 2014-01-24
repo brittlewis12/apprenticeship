@@ -13,7 +13,7 @@ Create a program that will never lose a game of tic-tac-toe against the moves of
 - Adhere to object-oriented design principles
 - Use a standard 3x3 tic-tac-toe board
 - The solution should exist as a public GitHub repository
-- Make a github commit for each requirement
+- Use Github and [**make frequent commits**](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) as you progress through the requirements
 
 ##### Requirements
 
