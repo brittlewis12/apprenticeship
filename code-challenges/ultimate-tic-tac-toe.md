@@ -9,7 +9,7 @@ Create a program that will never lose a game of tic-tac-toe against the moves of
 
 ##### Constraints
 
-- Use Ruby as a language
+- Use Ruby or JavaScript as a language
 - Adhere to object-oriented design principles
 - Use a standard 3x3 tic-tac-toe board
 - The solution should exist as a public GitHub repository
@@ -28,7 +28,7 @@ Your program should provide the following functionality:
 
 - Simplicity/elegance of design (be prepared to discuss)
 - Maintainability (clean, code that is easy to understand and change)
-- Testing (we encourage [RSpec](https://github.com/rspec/rspec))
+- Testing (we encourage [RSpec](https://github.com/rspec/rspec) or Jasmine [Jasmine](https://github.com/pivotal/jasmine))
 
 * * *
 
