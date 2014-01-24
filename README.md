@@ -26,7 +26,8 @@
 
 - [Change Machine](https://github.com/generalassembly/apprenticeship/blob/master/code-challenges/change-machine.md)
 - [Ultimate Tic-Tac-Toe](https://github.com/generalassembly/apprenticeship/blob/master/code-challenges/ultimate-tic-tac-toe.md)
-- [Lorem Ipsum Generator](https://github.com/generalassembly/apprenticeship/blob/master/code-challenges/lorem-ipsum-challenge.md)
+- [Lorem Ipsum
+  Generator](https://github.com/generalassembly/apprenticeship/blob/master/code-challenges/lorem-ipsum-generator.md)
 
 ##Suggested Reading
 
