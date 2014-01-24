@@ -28,7 +28,7 @@ Your program should provide the following functionality:
 
 - Simplicity/elegance of design (be prepared to discuss)
 - Maintainability (clean, code that is easy to understand and change)
-- Testing (we encourage [RSpec](https://github.com/rspec/rspec) or Jasmine [Jasmine](https://github.com/pivotal/jasmine))
+- Testing (we encourage [RSpec](https://github.com/rspec/rspec) or [Jasmine](https://github.com/pivotal/jasmine))
 
 * * *
 
