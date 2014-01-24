@@ -12,7 +12,7 @@ Create a program that generates [lorem ipsum](http://en.wikipedia.org/wiki/Lorem
 - Use Ruby or JavaScript as a language
 - Adhere to object-oriented design principles
 - The solution should exist as a public GitHub repository
-- Make a github commit for each requirement
+- Use Github and [**make frequent commits**](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html) as you progress through the requirements
 
 ##### Requirements
 
