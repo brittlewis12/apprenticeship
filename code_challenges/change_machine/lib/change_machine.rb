@@ -8,3 +8,11 @@ def make_change(cents)
       coins
   end
 end
+
+def count_change(args)
+  currency_set = [25, 10, 5, 1]
+  change = args[:quarters] * 25
+  change += args[:dimes] * 10
+  change += args[:nickels] * 5
+  change += args[:pennies]
+end
