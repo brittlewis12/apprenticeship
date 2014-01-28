@@ -17,9 +17,11 @@ describe "#make_change" do
     expect(make_change(25)).to eq([1, 0, 0, 0])
     expect(make_change(31)).to eq([1, 0, 1, 1])
   end
+
+  it "makes change up to 100 cents" do
+    expect(make_change(101)).to eq("Please enter a number of cents below 100.")
+  end
 end
 
 describe "#count_change" do
-  it "" do
-  end
 end
