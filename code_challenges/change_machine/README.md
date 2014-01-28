@@ -40,7 +40,7 @@ Your program should provide for the following functionality:
 	3 cents            = 3 pennies
 	6 cents            = 1 nickel, 1 penny
 	14 cents           = 1 dime, 4 pennies
-	
+
 	2 dimes, 3 pennies = 23 cents
 	3 pennies          = 3 cents
 
@@ -50,7 +50,3 @@ Your program should provide for the following functionality:
 - Simplicity/elegance of design (be prepared to discuss)
 - Maintainability (clean, code that is easy to understand and change)
 - Testing (We encourage RSpec)
-
-
-
-

@@ -16,18 +16,18 @@ Create a program that generates [lorem ipsum](http://en.wikipedia.org/wiki/Lorem
 
 ##### Requirements
 
-Your program should provide for the following functionality:  
+Your program should provide for the following functionality:
 
 - Accept number of words requested
 - Accept a list of words (space, comma, or new line separated) that will be the basis of the lorem ipsum text
 - Return lorem ipsum sentences and paragraphs of varying length
 
 ##### Examples
-    
-    "coding javascript ruby programming Tim", 50 #=> 
-    
-    "Ruby javascript programming ruby Tim coding. Programming javascript ruby programming Tim javascript programming ruby Tim. Coding ruby Tim javascript programming Tim. Tim javascript coding ruby javascript Tim ruby.  
-    
+
+    "coding javascript ruby programming Tim", 50 #=>
+
+    "Ruby javascript programming ruby Tim coding. Programming javascript ruby programming Tim javascript programming ruby Tim. Coding ruby Tim javascript programming Tim. Tim javascript coding ruby javascript Tim ruby.
+
     Ruby programming Tim coding ruby programming javascript. Javascript coding ruby programming javascript ruby Tim javascript. Coding Tim programming javascript coding programming javascript."
 
 ##### Areas we evaluate

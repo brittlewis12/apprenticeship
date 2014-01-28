@@ -5,7 +5,7 @@
 
 ##### Objective
 
-Create a program that will never lose a game of tic-tac-toe against the moves of a human user. 
+Create a program that will never lose a game of tic-tac-toe against the moves of a human user.
 
 ##### Constraints
 
@@ -22,7 +22,7 @@ Your program should provide the following functionality:
 - A user or program can make the first move
 - A user can input what square they would like to make a move on
 - A user should be able to see the state of the board
-- A game should always end in a victory for the program or tie 
+- A game should always end in a victory for the program or tie
 
 ##### Areas we evaluate
 
