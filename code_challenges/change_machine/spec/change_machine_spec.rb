@@ -22,7 +22,7 @@ describe ChangeMachine do
     end
 
     it "makes change up to 100 cents" do
-      expect(cm.make_change(101)).to eq("Please enter a number of cents below 100.")
+      expect{cm.make_change(101)}.to raise_error ArgumentError, "Argument must be less than 100"
     end
   end
 
